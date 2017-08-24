@@ -1,0 +1,190 @@
+<div class="menu">
+        <ul id="topnav">
+          <li class="dropdown"><a href="category.html">Pizza</a>
+            <ul class="children" style="visibility: hidden; display: block;">
+              <li><a href="category.html">Pizza</a></li>
+              <li class="dropdown"><a href="category.html">Lasagna</a>
+                <ul class="children2" style="visibility: hidden; display: block;">
+                  <li><a href="category.html">Pizza</a></li>
+                  <li><a href="category.html">Lasagna</a></li>
+                  <li><a href="category.html">Spaghetti</a></li>
+                  <li><a href="category.html">Penne</a></li>
+                  <li><a href="category.html">Canelonni</a></li>
+                </ul>
+              </li>
+              <li><a href="category.html">Spaghetti</a></li>
+              <li><a href="category.html">Penne</a></li>
+              <li><a href="category.html">Canelonni</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="category.html">Lasagna</a>
+            <ul class="children">
+              <li><a href="category.html">Pizza</a></li>
+              <li class="dropdown"><a href="category.html">Lasagna</a>
+                <ul class="children2">
+                  <li><a href="category.html">Pizza</a></li>
+                  <li><a href="category.html">Lasagna</a></li>
+                  <li><a href="category.html">Spaghetti</a></li>
+                  <li><a href="category.html">Penne</a></li>
+                  <li><a href="category.html">Canelonni</a></li>
+                </ul>
+              </li>
+              <li><a href="category.html">Spaghetti</a></li>
+              <li><a href="category.html">Penne</a></li>
+              <li><a href="category.html">Canelonni</a></li>
+            </ul>
+          </li>
+          <li><a href="category.html">Spaghetti</a></li>
+          <li class="dropdown"><a href="category.html">Penne</a>
+            <ul class="children">
+              <li><a href="category.html">Pizza</a></li>
+              <li class="dropdown"><a href="category.html">Lasagna</a>
+                <ul class="children2">
+                  <li><a href="category.html">Pizza</a></li>
+                  <li><a href="category.html">Lasagna</a></li>
+                  <li><a href="category.html">Spaghetti</a></li>
+                  <li><a href="category.html">Penne</a></li>
+                  <li><a href="category.html">Canelonni</a></li>
+                </ul>
+              </li>
+              <li><a href="category.html">Spaghetti</a></li>
+              <li><a href="category.html">Penne</a></li>
+              <li><a href="category.html">Canelonni</a></li>
+            </ul>
+          </li>
+          <li><a href="category.html">Canelonni</a></li>
+          <li><a href="category.html">Fettuchini</a></li>
+          <li><a href="category.html">Risotto</a></li>
+          <li><a href="category.html">Antipasti</a></li>
+          <li><a href="category.html">Bar-B-Q</a></li>
+          <li><a href="category.html">Desserts</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- END OF HEADER --> 
+  
+  <!-- CONTENT -->
+  <div id="content_holder" class="fixed">
+    <div class="inner">
+      <div id="content">
+        <div class="box featured-box">
+          <h2 class="heading-title"><span>Featured Products</span></h2>
+          <div class="box-content">
+            <ul id="myRoundabout" class="roundabout-holder" style="padding: 0px; position: relative; z-index: 100;">
+              <li class="roundabout-moveable-item" style="position: absolute; left: 292.6px; top: 35.3px; width: 410.445px; height: 273.63px; opacity: 0.91; z-index: 356; font-size: 10.95px;" current-scale="0.9121">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza.jpg" alt="Spicylicious store"> </a>
+                  <h3>Pizza Peperoni</h3>
+                </div>
+                <span class="pricetag">$ 1400,99</span> </li>
+              <li class="roundabout-moveable-item roundabout-in-focus" style="position: absolute; left: 78.1px; top: 22.2px; width: 450px; height: 300px; opacity: 1; z-index: 400; font-size: 12px;" current-scale="1.0000">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza2.jpg" alt="Spicylicious store"> </a>
+                  <h3>Pizza Caprichosa</h3>
+                </div>
+                <span class="pricetag">$ 99,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: -97px; top: 35.3px; width: 410.445px; height: 273.63px; opacity: 0.91; z-index: 356; font-size: 10.95px;" current-scale="0.9121">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza3.jpg" alt="Spicylicious store"> </a>
+                  <h3>Something delicious</h3>
+                </div>
+                <span class="pricetag">$ 140,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: -129.9px; top: 67.2px; width: 315px; height: 210px; opacity: 0.7; z-index: 250; font-size: 8.4px;" current-scale="0.7000">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza4.jpg" alt="Spicylicious store"> </a>
+                  <h3>Potato Noisettes</h3>
+                </div>
+                <span class="pricetag">$ 27,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: -1.5px; top: 99px; width: 219.555px; height: 146.37px; opacity: 0.49; z-index: 144; font-size: 5.85px;" current-scale="0.4879">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza5.jpg" alt="Spicylicious store"> </a>
+                  <h3>Veal steak (medium rare)</h3>
+                </div>
+                <span class="pricetag">$ 14000,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: 213.1px; top: 112.2px; width: 180px; height: 120px; opacity: 0.4; z-index: 100; font-size: 4.8px;" current-scale="0.4000">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza.jpg" alt="Spicylicious store"> </a>
+                  <h3>Peperoni pizza</h3>
+                </div>
+                <span class="pricetag">$ 73,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: 388.1px; top: 99px; width: 219.555px; height: 146.37px; opacity: 0.49; z-index: 144; font-size: 5.85px;" current-scale="0.4879">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza2.jpg" alt="Spicylicious store"> </a>
+                  <h3>Peperoni pizza</h3>
+                </div>
+                <span class="pricetag">$ 1999,99</span> </li>
+              <li class="roundabout-moveable-item" style="position: absolute; left: 421px; top: 67.2px; width: 315px; height: 210px; opacity: 0.7; z-index: 250; font-size: 8.4px;" current-scale="0.7000">
+                <div class="prod_holder"> <a href="product.html"> <img src="image/pizza3.jpg" alt="Spicylicious store"> </a>
+                  <h3>Peperoni pizza</h3>
+                </div>
+                <span class="pricetag">$ 14,99</span> </li>
+            </ul>
+            <a href="#" class="previous_round">Previous</a> <a href="#" class="next_round">Next</a> </div>
+        </div>
+        <div class="box">
+          <h2 class="heading-title"><span>Welcome to Spicylicious</span></h2>
+          <div class="box-content">
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="banner">
+            <div><a href="#"><img src="image/banner1.jpg" alt="Spicylicious store" style="opacity: 1;"></a></div>
+            <div><a href="#"><img src="image/banner2.jpg" alt="Spicylicious store"></a></div>
+          </div>
+        </div>
+        <div class="box">
+          <h2 class="heading-title"><span>Latest Products</span></h2>
+          <div class="box-content">
+            <div class="box-product fixed">
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic1.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="old_price">$ 19 999,99</span> <span class="new_price">$ 14 999,99</span> </div>
+                <div class="info" style="visibility: hidden;">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic2.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 147,99</span> </div>
+                <div class="info" style="visibility: hidden;">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic3.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 472,99</span> </div>
+                <div class="info">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic4.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 219,99</span> </div>
+                <div class="info">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic5.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 101,99</span> </div>
+                <div class="info" style="visibility: hidden;">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic6.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 56,67</span> </div>
+                <div class="info" style="visibility: hidden;">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic7.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 21,50</span> </div>
+                <div class="info">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+              <div class="prod_hold"> <a class="wrap_link" href="product.html"> <span class="image"><img src="image/prod_pic8.jpg" alt="Spicylicious store"></span> </a>
+                <div class="pricetag_small"> <span class="price">$ 176,99</span> </div>
+                <div class="info" style="visibility: hidden;">
+                  <h3>Very long product name goes here</h3>
+                  <p>Suspendisse eget nunc lorem. Sed convallis mattis est, quis dignissim magna varius et.</p>
+                  <a class="add_to_cart_small" href="#">Add to cart</a> <a class="wishlist_small" href="#">Wishlist</a> <a class="compare_small" href="#">Compare</a> </div>
+              </div>
+            </div>

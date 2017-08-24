@@ -1,0 +1,1 @@
+<h2>Your payment successfully paid. Please check your email for details </h2>
